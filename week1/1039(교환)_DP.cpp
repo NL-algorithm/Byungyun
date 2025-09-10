@@ -5,6 +5,10 @@
     cout.tie(NULL)
 
 using namespace std;
+
+//DP버전
+//메모리 44992kb 시간 28ms
+
 int n, m, k;
 int cache[1'000'003][11];
 
