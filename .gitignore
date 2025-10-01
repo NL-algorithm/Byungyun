@@ -1,2 +1,6 @@
 .vscode
 main.exe
+
+# Added by cargo
+
+/target
